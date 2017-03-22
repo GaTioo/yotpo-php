@@ -1,7 +1,7 @@
 {
-    "name": "yotpo/yotpo",
+    "name": "gatioo/yotpo",
     "type": "library",
-    "description": "A PHP interface to the YOTPO API",
+    "description": "A PHP interface to the YOTPO API, with few fixes",
     "keywords": ["rest", "yotpo"],
     "homepage": "https://www.yotpo.com",
     "license": "MIT",
@@ -10,6 +10,10 @@
         {
             "name": "Vladislav Shub",
             "email": "vlad@yotpo.com"
+        },
+        {
+            "name": "Ignat Minkov",
+            "email": "gatio93@gmail.com"
         }
     ],
     "require": {
